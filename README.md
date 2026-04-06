@@ -4,7 +4,7 @@ This repository contains a C-based simulation environment for evaluating differe
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Set-Associative Cache Simulation**  
   Implements standard set-associative mapping logic.
@@ -20,7 +20,7 @@ This repository contains a C-based simulation environment for evaluating differe
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 | File | Description |
 |------|------------|
@@ -33,7 +33,7 @@ This repository contains a C-based simulation environment for evaluating differe
 
 ---
 
-## 🛠️ Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -66,7 +66,7 @@ Run the executable and provide a trace file as input:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The simulator outputs key performance metrics such as:
 
@@ -76,7 +76,7 @@ The simulator outputs key performance metrics such as:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Add more replacement policies (e.g., LFU, ARC)
 - Visualization of cache performance
@@ -85,12 +85,12 @@ The simulator outputs key performance metrics such as:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available under the MIT License.
