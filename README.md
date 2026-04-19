@@ -5,7 +5,7 @@ This repository contains a C-based simulation environment for evaluating differe
 ##  Features
 
 - **Set-Associative Cache Simulation**  
-  Implements standard set-associative mapping logic.
+  Implements standard set-associative mapping logic. Finds the Hit rates of pure FIFO, LRU and LFU for comparison.
 
 - **Adaptive/Dynamic Logic**  
   Includes a dynamic cache implementation (`dynamic_cache.c`) designed to adapt to workload characteristics.
@@ -59,8 +59,7 @@ Run the executable and provide a trace file as input:
 The simulator outputs key performance metrics such as:
 
 - Total Hits / Misses  
-- Miss Rate Percentage  
-- Compulsory vs Capacity Misses (if implemented)  
+- Hit Rate Percentage  
 
 ##  Future Improvements
 
